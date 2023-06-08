@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -a | sort -d -t / -k 2 | tr '\n' ','; echo
+ls -m
