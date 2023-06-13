@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TRUEKNOWLEDGE + 12id8)
+echo $(($TRUEKNOWLEDGE + 12id8))
